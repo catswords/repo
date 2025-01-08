@@ -27,4 +27,4 @@ Cache persistence period: 3 days (Common), 2 years (Archived), 1 hour (Security)
 
 Please use this cache server in case of network or database issues with the original repository.
 
-Report an issue: ActivityPub [@catswords_oss](https://catswords.social/@catswords_oss)
+Report an issue: ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
